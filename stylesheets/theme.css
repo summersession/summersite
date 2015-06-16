@@ -2,7 +2,10 @@
 .contact_icon {width:200px}
 .contact_phone {width:200px; padding-bottom: 22px; padding-top:10px}
 .contact_email {width:200px; margin-top: -40px; margin-bottom:-28px}
-
+a.send_link:link {color:#F491BE;}
+a.send_link:hover {color:#5EE6B4}
+a.social_link:link {color:#F491BE;}
+a.social_link:hover {color:#5EE684;}
 .pricing {background-color: white}
 .extraspace {height:50px}
 table {border: none}
